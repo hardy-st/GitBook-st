@@ -1,5 +1,4 @@
-# Summary
+# Table of contents
 
-* [Introduction](README.md)
-* [The Jabberwocky](chapter1.md)
-* [A Modest Proposal](chapter2.md)
+* [Initial page](README.md)
+
